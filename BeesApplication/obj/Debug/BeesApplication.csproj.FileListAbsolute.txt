@@ -1,0 +1,10 @@
+C:\Users\jc554\source\repos\BeesApplication\bin\Debug\BeesApplication.exe.config
+C:\Users\jc554\source\repos\BeesApplication\bin\Debug\BeesApplication.exe
+C:\Users\jc554\source\repos\BeesApplication\bin\Debug\BeesApplication.pdb
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.csprojAssemblyReference.cache
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.Properties.Resources.resources
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.csproj.GenerateResource.cache
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.csproj.CoreCompileInputs.cache
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.exe
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.pdb
+C:\Users\jc554\source\repos\BeesApplication\obj\Debug\BeesApplication.MainForm.resources
